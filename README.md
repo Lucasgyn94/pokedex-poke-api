@@ -1,7 +1,10 @@
 # Pokedex
 Construção de um aplicação web utilizando html, css e javascript.
 
-## Api PokeApi
+## Site com a aplicação hospedada
+* https://pokedex-v2-azure.vercel.app/
+
+## Api PokeApi utilizada para requisição dos pokemons
 * https://pokeapi.co/
 
 ## Página de entrada
